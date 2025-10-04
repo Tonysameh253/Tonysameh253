@@ -5,7 +5,7 @@
 
 </div>
 
-<h2 align="center">👋 Hi, I'm Tony Sameh</h2>
+<h2 align="center">👋 Hi, I'm Toni Sameh</h2>
 <p align="center">📱 Flutter Developer | 🎓 Fresh Graduate | 🚀 Passionate about Mobile App Development</p>
 
 ---
